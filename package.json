@@ -1,0 +1,21 @@
+{
+  "name": "angular9-signaturepad",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7"
+  },
+  "main": "bundles/angular9-signaturepad.umd.js",
+  "module": "fesm5/angular9-signaturepad.js",
+  "es2015": "fesm2015/angular9-signaturepad.js",
+  "esm5": "esm5/angular9-signaturepad.js",
+  "esm2015": "esm2015/angular9-signaturepad.js",
+  "fesm5": "fesm5/angular9-signaturepad.js",
+  "fesm2015": "fesm2015/angular9-signaturepad.js",
+  "typings": "angular9-signaturepad.d.ts",
+  "metadata": "angular9-signaturepad.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
